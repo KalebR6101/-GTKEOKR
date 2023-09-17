@@ -6,6 +6,7 @@
 <body>
     <h1>kalebjrichardson@lewisu.edu</h1>
     <h2>My discord name is krichardson2_88729</h2>
+    <h2>My prefer name is Kaleb</h2>
 <h2>Introduction: 
 <p>My name is Kaleb Richardson and I like to code in my freetime.I play videogames and like to watch marvel movies. I have 8 silbings, 7 are adults, and 1 is younger than me.My major is computer science. I am the second yougest of my family</p>
 </h2>
@@ -21,7 +22,7 @@
 <h2> Fun fact about myself is that i worked at a pizza place </h2>
 
 <h2>Greatest Innovation:
-<ul style="list-style-type:square">
+<ul style="list-style-type:square;">
 <li>Intel 4004 and https://www.intel.com/content/www/us/en/history/museum-story-of-intel-4004.html</li>
 <li>Simula and https://history-computer.com/simula-guide/</li>
 <li>programma 101 and https://www.historicalcollections.deib.polimi.it/en/collezioni/informatica-collezioni/olivettip101-2/olivettip101-app/</li>
