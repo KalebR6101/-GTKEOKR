@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Kaleb Richardson</title>
+    <title><b>Kaleb Richardson</b></title>
 </head>
 <body>
     <h1>kalebjrichardson@lewisu.edu</h1>
