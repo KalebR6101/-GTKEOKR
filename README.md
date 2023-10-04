@@ -10,7 +10,7 @@
     <h2>My discord name is krichardson2_88729</h2>
     <h2>My prefer name is Kaleb</h2>
 <h2>Introduction: 
-<p>
+<p style="background-color:Tomato;">
 My name is Kaleb Richardson and I like to code in my freetime.I play videogames and like to watch marvel movies. I have 8 silbings, 7 are adults, and 1 is younger than me.My major is computer science. I am the second yougest of my family</p>
 </h2>
 <h2>What I hope to learn in this course
