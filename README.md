@@ -6,7 +6,7 @@
 <body {
   background-color: lightblue;
 }>
-    <h1 style="background-color:DodgerBlue;">kalebjrichardson@lewisu.edu</h1>
+    <h1>kalebjrichardson@lewisu.edu</h1>
     <h2>My discord name is krichardson2_88729</h2>
     <h2>My prefer name is Kaleb</h2>
 <h2>Introduction: 
