@@ -2,7 +2,7 @@
 <html>
 <head>
     <h1><b>Kaleb Richardson</b></h1>
-    <img src="img78/me.jpg">
+    <img src="me.jpg.jpeg">
 </head>
 <style>
     p.solid {border-style: solid;}
