@@ -3,9 +3,10 @@
 <head>
     <h1><b>Kaleb Richardson</b></h1>
 </head>
+<style>
 <body {
-  background-color: lightblue;
-}>
+   background-image: url("paper.gif");>
+    </style>
     <h1 style="background-color:DodgerBlue;">kalebjrichardson@lewisu.edu</h1>
     <p>My discord name is krichardson2_88729</p>
     <p>My prefer name is Kaleb</p>
