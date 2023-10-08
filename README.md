@@ -24,7 +24,7 @@ My name is Kaleb Richardson and I like to code in my freetime.I play videogames 
 <h2>My favorite Hobby/activity
 <p class="solid">My favorite hobby is to play video games. When i'm bored video games pass the time through the day. Playing games with storys make feel atatched to those characters in that video game. It is also a relaxer when im stress over something. It is very fun playing with friends and people you don't know.</p>
 </h2>
-<h2> Fun fact about myself is that i worked at a pizza place </h2>
+<p> Fun fact about myself is that i worked at a pizza place </p>
 
 <h2>Greatest Innovation:
 <ul style="list-style-type:square;">
