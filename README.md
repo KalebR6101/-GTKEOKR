@@ -5,9 +5,11 @@
 </head>
 <style>
     p.solid {border-style: solid;}
-<body {
-   background-image: url("paper.gif");>
+body {
+    background-color: lightblue;
+}
     </style>
+    <body>
     <h1 style="background-color:DodgerBlue;">kalebjrichardson@lewisu.edu</h1>
     <p>My discord name is krichardson2_88729</p>
     <p>My prefer name is Kaleb</p>
